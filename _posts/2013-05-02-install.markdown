@@ -305,7 +305,6 @@ Acesse [whatbrowser.org](http://whatbrowser.org) e atualize seu navegador, caso 
 
 <hr />
 
-
 ## Utilização da Máquina Virtual
 
 Ao invés de instalar todas as ferramentas em seu computador, você pode configurar um ambiente de desenvolvimento em uma Máquina Virtual. Favor, verifique os deltalhes [aqui]({% post_url 2014-03-24-alternative-dev-environment %}).
